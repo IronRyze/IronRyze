@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm IronRyze! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="230">
+<p><em>Junior 3D artist</em></p>
+<p><em>Junior Web Developer</em></p>
 
-<!--
-**IronRyze/IronRyze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: ImNotRyze](https://img.shields.io/twitter/follow/ImNotRyze?style=social)](https://twitter.com/ImNotRyze)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgarriguesfranco/)](https://www.linkedin.com/in/jgarriguesfranco/)
+[![GitHub IronRyze](https://img.shields.io/github/followers/IronRyze?label=follow&style=social)](https://github.com/IronRyze)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const IronRyze = {
+  code: [Javascript, HTML, CSS, Python];
+  tools: [GitHub];
+  architecture: ["microservices", "event-driven", "design system pattern"];
+
+ challenge: "I am doing the CS50's Web Programming with Python and Javascript";
+}
+```
