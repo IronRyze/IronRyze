@@ -14,7 +14,6 @@
 const IronRyze = {
   code: [Javascript, HTML, CSS, Python];
   tools: [GitHub];
-  architecture: ["microservices", "event-driven", "design system pattern"];
   challenge: "I am doing the CS50's Web Programming with Python and Javascript";
 }
 ```
