@@ -12,8 +12,8 @@
 
 ```javascript
 const IronRyze = {
-  code: [Javascript, HTML, CSS, Python];
+  code: [Javascript, HTML, CSS];
   tools: [GitHub];
-  challenge: "I am doing the CS50's Web Programming with Python and Javascript";
+  challenge: "I am studying python on my own";
 }
 ```
