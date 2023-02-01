@@ -3,7 +3,6 @@
 <p><em>Junior 3D artist</em></p>
 <p><em>Junior Web Developer</em></p>
 
-[![Twitter: ImNotRyze](https://img.shields.io/twitter/follow/ImNotRyze?style=social)](https://twitter.com/ImNotRyze)
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgarriguesfranco/)](https://www.linkedin.com/in/jgarriguesfranco/)
 [![GitHub IronRyze](https://img.shields.io/github/followers/IronRyze?label=follow&style=social)](https://github.com/IronRyze)
 
