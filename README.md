@@ -1,5 +1,5 @@
 <h2> Hi, I'm IronRyze! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="230">-->
 <p><em>Junior 3D artist</em></p>
 <p><em>Junior Web Developer</em></p>
 
