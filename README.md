@@ -13,6 +13,6 @@
 const IronRyze = {
   code: [Javascript, HTML, CSS, Python, Java];
   tools: [GitHub];
-  challenge: "I am studying python on my own";
+  challenge: "I am studying DAW";
 }
 ```
